@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+
+
+
+      <!DOCTYPE html>
 <html>
 <head>
     <title>Document</title>
@@ -23,16 +26,16 @@
     sum=num1+num2;
     document.write(num1+"+"+num2+"="+sum+"<br>");
 
-    sum=num1-num2;
+    sub=num1-num2;
     document.write(num1+"-"+num2+"="+sub+"<br>");
 
-    sum=num1/num2;
+    div=num1/num2;
     document.write(num1+"/"+num2+"="+div+"<br>");
 
-    sum=num1*num2;
+    mul=num1*num2;
     document.write(num1+"*"+num2+"="+mul+"<br>");
 
-    sum=num1%num2;
+    rem=num1%num2;
     document.write(num1+"%"+num2+"="+rem);
 
 
