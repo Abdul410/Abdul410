@@ -44,6 +44,12 @@ As a variant////////
         var C=parseInt(prompt("Enter Celcius :"));
            F=(9*C)/5+32;
            document.write("Fahrenheit is "+F);
+//Metre to Kilometre////
+
+            var metre=prompt("Enter the metre number here :")
+//var metre=4000;
+km=metre/1000;
+document.write("when metre is "+metre+" metre then kilometre is "+km+" km");
 
         </script>
     </body> 
